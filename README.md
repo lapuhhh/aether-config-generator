@@ -1,2 +1,4 @@
 # aether-config-generator
-silly and buggy simple rcon utility for DDnet/Teeworlds for generating "aura" configs
+<p align="center">
+  <img src="images/menu.png" alt="Aether Config Generator Interface" width="800"/>
+</p>
