@@ -24,8 +24,8 @@
 git clone https://github.com/lapuhhh/aether-config-generator
 cd aether-config-generator
 
-# Установка зависимостей
-pip install -r requirements.txt
+# Установка зависимостей, так будет проще чем requirements, разницы нет
+pip install customtkinter Pillow
 
 # Я сказала стартуем!
 python Aether.py
